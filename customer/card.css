@@ -1,0 +1,14 @@
+.container{
+    width: 500px;
+    height: 225px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin:  auto;
+    border-style: solid;
+    border-color: black;
+}
+
+
+

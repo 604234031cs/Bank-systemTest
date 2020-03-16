@@ -1,0 +1,31 @@
+.container {
+    width: 50%;
+    padding: 10;
+    margin:  auto;
+  }
+  .card-haeder{
+    text-align:  center;
+    background-color: rgba(14, 179, 255, 0.904);
+  }
+  .card-body{
+    height: 10;
+    background-color: rgba(201, 234, 250, 0.904);
+  }
+  input[type=button]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(0, 162, 255);
+    border-radius: 4px;
+  }
+  h3{
+    color: rgb(3, 131, 250);
+  }
+  .container a span {
+    font-size: 22;
+  }
+
+ 
+  
+
